@@ -1,2 +1,5 @@
 # Text-Classification-on-Finance-News
-Building custom model on pre-trained BERT and FinBERT model to perform sentiment analysis. 
+Sentiment analysis aims to determine the sentiment strength from a textual source for good decision-making. According to the efficient market hypothesis, all past information is reflected in stock prices, and new information is instantaneously absorbed in determining future stock prices. Sentiment analysis models can provide an efficient method for extracting actionable signals from the news after determining if the sentences send a positive or negative signal.
+
+In the following project, I will build a custom sentiment classifier model to do text classification/sentiment analysis tasks using BERT(Bidirectional Encoders Representations from Transformers) as well as FinBERT, another pre-trained BERT model more specifically for analyzing finance news. BERT is an open-source NLP pre-training model developed by the Google AI Language team in 2018. It is considered the most ground-breaking development in the field of NLP and is often compared to the ImageNet moment in computer vision.
+![0*ViwaI3Vvbnd-CJSQ](https://github.com/thomas9549/Text-Classification-on-Finance-News/assets/68352604/06ae5c43-dc29-4774-beb1-9b7da02877ba)
